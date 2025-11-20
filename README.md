@@ -15,9 +15,9 @@ Notebook này thực hiện transfer learning sử dụng Vision Transformer (Vi
 ### 1.1. Tạo môi trường ảo (khuyến nghị)
 ```bash
 python -m venv mrivenv
-source venv/bin/activate  # Linux/Mac
+source mrivenv/bin/activate  # Linux/Mac
 # hoặc
-venv\Scripts\activate  # Windows
+mrivenv\Scripts\activate  # Windows
 ```
 
 ### 1.2. Cài đặt các thư viện cần thiết
